@@ -1,4 +1,4 @@
-package dk.aoc
+package dk.aoc.day13
 
 import java.io.File
 import java.util.*
